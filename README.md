@@ -2,8 +2,14 @@
 
 ### Description:
 #### This a project of long term investment and see which electric cars is a good long term investment. Analyzing historical data (5 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
-        
-#### Use accountant statements, excel, python, and Microsoft Azure Machine Learning Studio for Stocks Analysis
+#### Stock Tickers:
+#### RIVN - Rivian Automotive, Inc.  
+#### LCID - Lucid Group, Inc.  
+#### NSANY - Nissan Motor Co., Ltd.   
+#### GM - General Motors Company  
+#### F - Ford Motor Company  
+
+#### Use accountant statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
 
 
 # Prerequistes
@@ -11,7 +17,7 @@
 
 #### Python 3.5+
 
-#### Jupyter Notebook Python 3
+#### Jupyter Notebook Python 3.5  
 
 #### Excel 2016
 

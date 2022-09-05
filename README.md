@@ -4,10 +4,10 @@
 #### This a project of long term investment and see which electric cars is a good long term investment. Analyzing historical data (5 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
 ### Stock Tickers:
 #### RIVN - Rivian Automotive, Inc.  
-#### LCID - Lucid Group, Inc.  
-#### NSANY - Nissan Motor Co., Ltd.   
+#### LCID - Lucid Group, Inc.    
 #### GM - General Motors Company  
 #### F - Ford Motor Company  
+#### HMC - Honda Motor Co., Ltd.  
 
 #### Use accountant statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
 

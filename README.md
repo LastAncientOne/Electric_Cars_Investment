@@ -1,4 +1,5 @@
 # Electric Cars Long Term Investment  
+<img src="Electric_Cars.PNG">
 
 # Coming Soon!!!
 

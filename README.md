@@ -1,6 +1,4 @@
-<p align="center">
-  # Electric Cars Long Term Investment  
-</p>
+<h1 align="center">Electric Cars Long Term Investment</h1>
 
 <img src="Electric_Cars.PNG">  
 

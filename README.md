@@ -9,7 +9,7 @@
 #### GM - General Motors Company  
 #### F - Ford Motor Company  
 #### HMC - Honda Motor Co., Ltd.  
-### TSLA - Tesla, Inc.  
+#### TSLA - Tesla, Inc.  
 #### Use accountant statements and historical price in Excel, python, Power BI, and Tableau for Stocks Analysis
 
 ### Financial Ratio or Accounting Ratio:  

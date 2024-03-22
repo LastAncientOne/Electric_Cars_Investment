@@ -28,7 +28,7 @@ for (i in 1:length(symbols)) {
   std_dev <- sd(symbol_returns) * sqrt(252)
   
   # Calculate risk-free rate (assumed to be 0 in this example)
-  risk_free_rate <- 0
+  risk_free_rate <- 0.001
   
   # Calculate Sharpe ratio
   sharpe_ratio <- (mean_return - risk_free_rate) / std_dev

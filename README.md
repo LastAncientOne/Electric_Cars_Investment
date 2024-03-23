@@ -2,7 +2,16 @@
 <h1 align="center">Electric Cars Long Term Investment</h1>
 
 ### Description:
-#### This a project of long term investment and see which electric cars is a good long term investment. Analyzing technical and fundamental. Analyzing historical data (2 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns.  
+#### This a project of long term investment and see which electric cars is a good long term investment. Analyzing technical and fundamental. Analyzing historical data (2 years) and calculate performance measurements, back-testing, forecasting, and using Capital Asset Pricing Model. Testing different trading strategies. Finding stock with lowest risks with highest returns. 
+
+# Prerequistes
+#### Microsoft Azure Machine Learning Studio  
+#### Python 3.5+
+#### Jupyter Notebook Python 3.5  
+#### Excel 2016
+#### Power BI  
+#### Tableau
+
 ### Stock Tickers:
 #### RIVN - Rivian Automotive, Inc.  
 #### LCID - Lucid Group, Inc.    
@@ -24,19 +33,8 @@ Valuation Ratios – financial metrics to evaluate how the relationship between 
 
 Liquidity Ratios – financial metrics to evaluate how the company's ability to pay debt obligations and its margin of safety through the calculation of metrics including the current ratio, quick ratio, and operating cash flow ratio.   
 
-
-# Prerequistes
-#### Microsoft Azure Machine Learning Studio  
-
-#### Python 3.5+
-
-#### Jupyter Notebook Python 3.5  
-
-#### Excel 2016
-
-#### Power BI  
-
-#### Tableau
+### Data
+https://finance.yahoo.com/  
 
 ## Author:  
 ### Tin Hang  
